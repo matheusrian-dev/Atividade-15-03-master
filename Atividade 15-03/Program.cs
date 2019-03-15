@@ -10,11 +10,13 @@ namespace Atividade_15_03
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("========================================");
             Console.WriteLine("Hoje é sexta");
             Console.WriteLine("Amanhã é sábado");
             Console.WriteLine("Depois de amanhã é domingo");
             Console.WriteLine("Não tem nenhum feriado essa semana.");
             Console.WriteLine("Não há mais feriados esse mês");
+            Console.WriteLine("========================================");
         }
 
     }
